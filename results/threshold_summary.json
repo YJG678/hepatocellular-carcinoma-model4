@@ -1,0 +1,33 @@
+{
+  "analytic": {
+    "A_proved": 0.2481168947991388,
+    "S": 3.2,
+    "a_proved": 1.6121433420477755,
+    "b_star": 0.33366061117055057,
+    "coefficient_A": 0.024674011002723397,
+    "coefficient_B": 16.0,
+    "d1": 0.01,
+    "d2": 0.08,
+    "delta": 0.5,
+    "g_at_threshold": 1.0000000000000377,
+    "g_derivative": -1.9471523544658411,
+    "kappa": 2.5
+  },
+  "bisection_bracket": [
+    1.44,
+    1.49
+  ],
+  "discrepancy_percent": 9.251079603283637,
+  "eig_tolerance": 2e-10,
+  "finest": {
+    "A_sim": 0.2734102992239196,
+    "N": 3200,
+    "a_sim": 1.463002678155899,
+    "bracket_width": 1.1920928910669204e-08,
+    "iterations": 22,
+    "lambda_mid": -5.286007932020141e-09,
+    "lower": 1.4630026721954346,
+    "upper": 1.4630026841163635
+  },
+  "stopping_width": 1.2e-08
+}

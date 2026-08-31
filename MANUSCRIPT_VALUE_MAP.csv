@@ -1,0 +1,19 @@
+manuscript_item,generated_file,generated_field,producer
+threshold convergence table,results/threshold_convergence.csv,a_sim and A_sim,threshold_analysis.py
+proved threshold,results/threshold_summary.json,analytic.A_proved,threshold_analysis.py
+9.251 percent discrepancy,results/threshold_summary.json,discrepancy_percent,threshold_analysis.py
+thin-margin table,results/thin_margin.csv,all rows,reproduce.py
+stationarity table,results/summary.json,max_stationarity fields,reproduce.py
+27 transport sweeps,results/sweeps.csv,all rows,reproduce.py
+monotone fit parameters,results/collapse_fit.json,y0 log_Ac Ac scale,reproduce.py
+collapse R2 and RMSE,results/collapse_fit.json,r2 and rmse,reproduce.py
+weighted-L1 ratios,results/collapse_fit.json,weighted_l1_ratio_min and max,reproduce.py
+phase-grid counts and residuals,results/phase_grid_stats.json,all summary fields,reproduce.py
+1-D grid convergence,results/mesh_convergence_1d.csv,all rows,mesh_convergence.py
+2-D grid convergence,results/mesh_convergence_2d.csv,all rows,mesh_convergence.py
+2-D stochastic state,results/two_dimensional_summary.json,unfilled,reproduce.py
+finite-packing comparison,results/two_dimensional_summary.json,volume_filling,reproduce.py
+Figure 5,figures/fig5_2d_phenotypes.png,fields from results/fields2d.npz,make_fig5_plot.py
+Figures 8 9 11,figures/fig8_refuge_phase.png; figures/fig9_access_number.png; figures/fig11_barrier.png,generated result files,figures_8_9_11.py
+Figure 14,figures/fig14_sharp_threshold.png,threshold and thin-margin result files,fig14.py
+

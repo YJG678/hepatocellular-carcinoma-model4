@@ -1,0 +1,67 @@
+{
+  "max_stationarity": 3.7758384487019717e-07,
+  "plotted_mass_gt_0p25": 122,
+  "refuge_mass_gt_0p1": 135,
+  "refuge_percent": 94.4055944055944,
+  "residual_mean": 0.029952347608834095,
+  "residual_std": 0.09775479590186732,
+  "rmse": 0.10224061447925753,
+  "supply_range_ratio": 31.999999999999993,
+  "supply_strata": [
+    {
+      "n": 21,
+      "residual_mean": 0.14327286156841493,
+      "residual_std": 0.03373234006795796,
+      "rmse": 0.14719029733125258,
+      "stratum": 1,
+      "supply_max": 0.3,
+      "supply_min": 0.08
+    },
+    {
+      "n": 21,
+      "residual_mean": 0.10903811798716523,
+      "residual_std": 0.05874029100144264,
+      "rmse": 0.12385367560600341,
+      "stratum": 2,
+      "supply_max": 0.48,
+      "supply_min": 0.304
+    },
+    {
+      "n": 20,
+      "residual_mean": 0.04716175633649382,
+      "residual_std": 0.034017952661482276,
+      "rmse": 0.058150256783798156,
+      "stratum": 3,
+      "supply_max": 0.6719999999999999,
+      "supply_min": 0.496
+    },
+    {
+      "n": 20,
+      "residual_mean": 0.015021876285290508,
+      "residual_std": 0.01958292548158632,
+      "rmse": 0.024680918490768047,
+      "stratum": 4,
+      "supply_max": 0.9120000000000001,
+      "supply_min": 0.682
+    },
+    {
+      "n": 20,
+      "residual_mean": -0.02078090371694248,
+      "residual_std": 0.014795172687202023,
+      "rmse": 0.025509666680240305,
+      "stratum": 5,
+      "supply_max": 1.216,
+      "supply_min": 0.924
+    },
+    {
+      "n": 20,
+      "residual_mean": -0.12361993702431295,
+      "residual_std": 0.07061153853886985,
+      "rmse": 0.14236529845689716,
+      "stratum": 6,
+      "supply_max": 1.98,
+      "supply_min": 1.2480000000000002
+    }
+  ],
+  "total_points": 143
+}

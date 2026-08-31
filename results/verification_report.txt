@@ -1,0 +1,70 @@
+PASS proved access threshold: 0.2481168948
+PASS simulated half-width: 1.463002678
+PASS simulated access threshold: 0.2734102992
+PASS threshold discrepancy percent: 9.251079603
+PASS threshold bisection iterations: 22
+PASS thin-margin wall value: 16.00000007
+PASS thin-margin gap ratio 1: 1.469822375
+PASS thin-margin gap ratio 2: 1.665608193
+PASS thin-margin gap ratio 3: 1.800436963
+PASS thin-margin gap ratio 4: 1.870326371
+PASS fit y0: 0.753736811
+PASS fit log Ac: -0.3386099651
+PASS fit scale: 0.4914679306
+PASS fit Ac: 0.7127603963
+PASS fit R2: 0.9876794331
+PASS fit RMSE: 0.01716090641
+PASS weighted L1 ratio min: 5.221808791
+PASS weighted L1 ratio max: 16.2045391
+PASS null-fit R2 (xi): 0.7666267872
+PASS null-fit R2 (penetration_depth): 0.6971745574
+PASS null-fit R2 (d2): 0.03161227751
+PASS null-fit R2 (a): -3.632953951e-07
+PASS phase-grid point count: 143
+PASS phase-grid refuge count: 135
+PASS phase-grid plotted count: 122
+PASS phase-grid refuge percent: 94.40559441
+PASS phase-grid residual mean: 0.02995234761
+PASS phase-grid residual SD: 0.0977547959
+PASS phase-grid RMSE: 0.1022406145
+PASS 2-D finest peak-u change percent: 0.6807237308
+PASS 2-D finest peak-v change percent: 0.05113843478
+PASS 2-D random seed: 1
+PASS 2-D discrete source mean: 1.0359375
+PASS 2-D max u: 0.3724837659
+PASS 2-D max v: 3.041011648
+PASS 2-D K1: 0.2920208563
+PASS 2-D K2: 3.870140544
+PASS 2-D stationarity: 4.579594711e-12 <= 1e-06
+PASS volume-filling vmax: 30.41011648
+PASS packed max u: 0.39086441
+PASS packed max v: 3.047872762
+PASS packed K1: 0.2300786004
+PASS packed K2: 2.154841317
+PASS packed max-u percent change: 4.934616168
+PASS packed max-v percent change: 0.2256194554
+PASS packed K1 percent change: -21.21158628
+PASS packed K2 percent change: -44.32136786
+PASS mesh N=40 max u: 0.366879697
+PASS mesh N=40 max v: 3.038366251
+PASS mesh N=40 E_u: 0.02995492713
+PASS mesh N=40 E_v: 0.006661572091
+PASS mesh N=40 E_w: 0.02581201889
+PASS mesh N=40 stationarity: 1.412919281e-12 <= 1e-06
+PASS mesh N=80 max u: 0.3770845206
+PASS mesh N=80 max v: 3.033917389
+PASS mesh N=80 E_u: 0.01661494819
+PASS mesh N=80 E_v: 0.003278457492
+PASS mesh N=80 E_w: 0.01432135774
+PASS mesh N=80 stationarity: 2.187350486e-12 <= 1e-06
+PASS mesh N=160 max u: 0.3822671025
+PASS mesh N=160 max v: 3.03113219
+PASS mesh N=160 E_u: 0.008757293175
+PASS mesh N=160 E_v: 0.001740502541
+PASS mesh N=160 E_w: 0.007544590839
+PASS mesh N=160 stationarity: 2.504464429e-12 <= 1e-06
+PASS mesh N=320 max u: 0.3848871205
+PASS mesh N=320 max v: 3.029582909
+PASS mesh N=320 stationarity: 2.783047859e-12 <= 1e-06
+
+ALL 68 CHECKS PASSED
